@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+scikit-learn
+pandas
+numpy
+joblib
+xgboost
+imbalanced-learn
+matplotlib
+python-multipart
+scapy
